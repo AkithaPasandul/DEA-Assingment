@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Add Event</title>
     <script src="https://cdn.tailwindcss.com"></script>
       <style>
        @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
