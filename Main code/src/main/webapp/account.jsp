@@ -101,7 +101,6 @@
 		    }
 		</script>
 	    
-	    
 		</c:forEach>
 
 </body>
