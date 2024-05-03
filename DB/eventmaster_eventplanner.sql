@@ -40,7 +40,7 @@ CREATE TABLE `eventplanner` (
 --
 
 LOCK TABLES `eventplanner` WRITE;
-/*!40000 ALTER TABLE `eventplanner` DISABLE KEYS */;
+/*!40000 ALTER TABLE `eventplanner ` DISABLE KEYS */;
 INSERT INTO `eventplanner` VALUES (4,'harshanaA','ffhrMoa7fGEWjh5kOrnm0rn0xDyLhNorRxM2mTrwg59gaXnIo3QURsybSjWu8Kzj','Harshana Abeyrathne','harshanassck@gmail.com','Student');
 /*!40000 ALTER TABLE `eventplanner` ENABLE KEYS */;
 UNLOCK TABLES;
